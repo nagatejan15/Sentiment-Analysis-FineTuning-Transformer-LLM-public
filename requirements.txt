@@ -1,0 +1,7 @@
+transformers
+datasets
+evaluate
+accelerate
+torch
+numpy
+python-dotenv
