@@ -16,7 +16,6 @@ except OSError:
 
 print(" Model loaded successfully.")
 
-# --- 3. Test with Example Sentences ---
 test_reviews = [
     "This movie was absolutely fantastic! The acting was superb and the plot was gripping.",
     "I was really disappointed with this film. It was boring and the ending made no sense.",
